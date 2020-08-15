@@ -1,0 +1,21 @@
+* {
+  color: black !important;
+}
+label {
+  font-weight: 600;
+}
+body {
+  background: #ccccca;
+  letter-spacing: 0.2rem;
+  font-size: 1rem;
+}
+.container {
+  max-width: 450px;
+}
+.icon {
+  position: relative;
+  top: -50px;
+  border-radius: 50%;
+  width: 100px;
+  margin-bottom: -50px;
+}
